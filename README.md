@@ -497,6 +497,14 @@ The complete project demonstration includes the following steps:
 
 ---
 
+## 🎬 Demo
+
+Click below to watch the project in action:
+
+👉 **[Watch Project Demo](DEMO.md)**
+
+---
+
 # 👩‍💻 My Contribution
 
 I designed and implemented the ServiceNow-based **Automated Network Request Management** solution.
